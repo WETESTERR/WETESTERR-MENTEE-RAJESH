@@ -1,0 +1,43 @@
+// uncomment to execute the code-block.
+
+// //ES5
+// function add() {
+//     var a = 10
+//     var b = 20
+//     var c = a + b
+//     console.log("sum = " + c)
+// }
+
+// // add()
+
+// //ES6
+
+// var addnew = () => {
+//     var a = 10
+//     var b = 20
+//     var c = a + b
+//     console.log("sum = " + c)
+// }
+
+// addnew()
+
+// var fact = () => {
+//     var num = 10
+//     var fact1 = 1
+//     for (var i = 1; i <= num; i++) { fact1 = fact1 * i }
+//     console.log("factorial is " + fact1)
+// }
+
+// fact()
+
+// var swap = () => {
+//     var num1 = 5
+//     var num2 = 6
+//     var temp
+//     temp = num1
+//     num1 = num2
+//     num2 = temp
+//     console.log("After Swap " + num1 + " " + num2)
+// }
+
+// swap()
