@@ -1,7 +1,18 @@
 //uncomment to run the program
 
-var arr = [2, 5, 7, 1]
-console.log(arr.unshift(7))
+// var a = "Rajesh"
+// var arr = a.split("")
+// newArr = []
+// arrLength = arr.length
+// var i = arrLength
+// while (i != 0) {
+//     newArr.push(arr[i - 1])
+//     i--
+// }
+// console.log(newArr.join(""))
+
+// var arr = [2, 5, 7, 1]
+// console.log(arr.unshift(7))
 
 // var arr = []
 // arr.push(2)
