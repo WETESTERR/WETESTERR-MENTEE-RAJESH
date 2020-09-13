@@ -6,7 +6,7 @@
 
 - Variables, Loops, functions, few programming exercise
 
-- Operators, string functions, math, Default inbuild functions - mostly used
+- Operators, arrays, string functions, math, Default inbuild functions - mostly used
 
 - Conditional branching, switch, Type Conversions, Comparisons
 

@@ -1,0 +1,21 @@
+Operators && Comparators
+AND(&&), OR(||), NOT(!), >, <, ==
+If operand is not a boolean, its converted to boolean
+OR(All) operator/s executes from left to right
+OR finds the first truthy value
+OR acts as short-circuit
+AND finds the first falsy value
+Precedence of NOT > Precendence of AND > Prcedenc of OR
+Below are few default logic for defining the boolean conversion of data types [false]
+""
+NaN
+null
+undefined
+0
+Difference between == and === : == validates values only and === validates value and data types
+
+Array
+Array is a set of values/data.
+Array functions: push, pop, shift, unshift, reverse, length
+
+Default functions: https://www.tutorialspoint.com/javascript/javascript_builtin_functions.htm

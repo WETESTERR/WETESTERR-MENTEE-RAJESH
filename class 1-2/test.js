@@ -1,7 +1,6 @@
 
-
-
 // uncomment to execute the code-block.
+
 
 // var createTrianglePyramid = (rows) => {
 //     for (let i = 0; i < rows; i++) {
