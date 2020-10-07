@@ -104,3 +104,4 @@
 // var user = new Object()
 
 // console.log(typeof user)
+// uncomment to execute the code-block.
