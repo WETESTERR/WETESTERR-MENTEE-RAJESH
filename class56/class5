@@ -1,2 +1,10 @@
 Objects
-Object is a blue print of any class in JS. It is similar to any other object in other programming language.
+Objects are instances of a class, which holds the data variables declared in class and the member functions work on these class objects. 
+Each object has different data variables. Objects are initialized using special class functions called Constructors.
+Use of Objects:
+Objects are used to store keyed collections of various data and more complex entities.
+
+Imp: Object with const keyword can be changed.
+Property value shorthand explained in test.js file and few other concepts.
+
+Objects static methods explaination would be done in class6 with data types.
