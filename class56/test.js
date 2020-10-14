@@ -4,6 +4,89 @@
 
 
 
+// for loop for Object.entries()
+// var user1 = {
+//     name: "Rajesh",
+//     age: 32,
+//     location: "Banglore"
+// }
+
+// var user2 = {
+//     name: "Radsdsddsjesh",
+//     age: 311,
+//     location: "wrer"
+// }
+// var user3 = {
+//     name: "Rajdsdsdesh",
+//     age: 3222,
+//     location: "r"
+// }
+
+// for (const [key, value] of Object.entries(user)) {
+//     console.log(key + " : " + value)
+// }
+
+
+
+
+
+
+
+// let john = { name: "John" };
+
+// // for every user, let's store their visits count
+// let visitsCountMap = new Map();
+
+// // john is the key for the map
+// visitsCountMap.set(john, 123);
+// visitsCountMap = {
+//     1: 123
+// }
+
+
+// console.log(visitsCountMap.get(john)); // 123
+
+
+
+
+
+
+
+
+
+
+// Problem-Statment Solution
+
+// function sum(txt) {
+//     var s = 0
+//     var reg = txt.match(/\d/g);
+//     reg = reg.join("");
+//     var sp = reg.split("")
+//     for (var i = 0; i <= sp.length - 1; i++) {
+//         s = s + parseInt(sp[i])
+//     }
+//     console.log(s)
+// }
+
+// sum("ewfdfefd322")
+
+
+
+
+
+// var user = {
+//     name: "Rajesh",
+//     age: 32,
+//     fullName: "Rajesh Bhaskar"
+// }
+
+// console.log(Object.getOwnPropertyNames(user))
+
+// var arr = Object.values(user)
+// console.log(Object.keys(user))
+// console.log(Object.entries(user))
+
+
 // function user(first, last, age, place) {
 //     this.firstName = first,
 //         this.lastName = last,

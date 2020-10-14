@@ -1,0 +1,16 @@
+Object Static methods:
+values(), enteries(), keys()
+
+Data types:
+Number, String, BigInt(2^53 -1), Boolean, undefined, Objects, Symbols
+
+How to verify data type: Using typeof key
+
+Problem - Statement
+
+Sample Input: dvhsgdvsh3232667
+Output Sample: 3232667
+
+https://javascript.info/map-set
+https://javascript.info/weakmap-weakset
+
