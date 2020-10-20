@@ -1,0 +1,6 @@
+Scope
+Scope of Variables
+this keyword
+
+this keyword refer to an object which is executing the current JS code
+Every JS function while executing has a reference to its current execution context called "this"
