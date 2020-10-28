@@ -1,5 +1,74 @@
 // uncomment to execute the code-block.
 
+// To see in html
+// let f = () => {
+//     let i = 1
+//     return () => {
+//         console.log(i)
+//     }
+// }
+// console.dir(f())
+
+
+// var add = (function () {
+//     var counter = 0
+//     return function () {
+//         counter = counter + 1
+//         return counter
+//     }
+// })()
+
+// add()
+// add()
+// console.dir(add())
+
+
+// function add() {
+//     var counter = 0
+//     function plus() {
+//         counter = counter + 1
+//     }
+//     plus()
+//     return counter
+// }
+
+// console.log(add())
+
+// var counter = 0
+
+// function add() {
+//     var counter = 0
+//     counter = counter + 1
+//     console.log(counter)
+// }
+// add()
+// add()
+// add()
+// console.log(counter)
+
+
+
+
+
+
+// let f
+// if (true) {
+//     let i = 1
+//     f = () => {
+//         console.log(i)
+//     }
+// }
+
+
+// f()
+
+
+
+
+
+
+
+
 
 //this
 
