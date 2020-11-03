@@ -13,7 +13,7 @@
 
 // createTrianglePyramid(5)
 
-//Anonymous function
+// Anonymous function
 // (() => {
 //     console.log("wetesterr")
 // })()

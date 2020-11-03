@@ -1,0 +1,3 @@
+Prototypes
+Whenever we create an object, JS engine automatically creates hidden properties and methods.
+These properties can be added using .__proto__
