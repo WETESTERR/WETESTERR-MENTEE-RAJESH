@@ -1,0 +1,5 @@
+Promises
+States - resolve, reject, pending
+.then >> resolve
+.catch >> reject
+You can use async await keywords to manage async JS calls or promise.

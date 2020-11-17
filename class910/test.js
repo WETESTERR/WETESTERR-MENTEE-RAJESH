@@ -1,3 +1,49 @@
+
+// function Rajesh() {
+//     return new Promise(function (resolve, reject) {
+//         const error = false
+//         if (!error) {
+//             setTimeout(() => {
+//                 console.log("I am Rajesh. Understood Promise")
+//             }, 10000)
+//             resolve()
+//         }
+//         else {
+//             reject("Not understood Promise")
+//         }
+//     })
+// }
+//Way 1
+// Rajesh().then(function () {
+//     console.log("Good")
+// }).catch(function (error) {
+//     console.log("Bad " + error)
+// })
+
+//Way2
+// async function abc(){
+//     await Rajesh()
+// }
+
+// abc()
+
+//Way 3
+// (async () => {
+//     await Rajesh()
+// })()
+
+
+
+
+
+
+
+
+
+
+
+
+
 // V8 Chrome
 
 // let arr = [1,2,7]
