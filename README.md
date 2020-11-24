@@ -24,6 +24,6 @@
 
 - Promises
 
-- Object Orienting
+- Object Oriented Programming
 
 - Automation framework walk through using Protractor(JS)

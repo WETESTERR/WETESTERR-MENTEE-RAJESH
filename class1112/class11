@@ -1,0 +1,9 @@
+OOPs concepts in JS
+Class ->> Class is nothing but a template or blue-print.
+Objects ->> Object is an intance of a class
+Encapsulation ->> Binding
+Inheritance ->> Concept to bring parent class properties into child class
+Polymorphism ->> Same name but different working of functions
+Abstraction ->> Hiding properties.
+
+Module.export and require.
